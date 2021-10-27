@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\2610HomeWork\2610HomeWork\bin\Debug\netcoreapp3.1\2610HomeWork.exe
+C:\Users\admin\source\repos\2610HomeWork\2610HomeWork\bin\Debug\netcoreapp3.1\2610HomeWork.deps.json
+C:\Users\admin\source\repos\2610HomeWork\2610HomeWork\bin\Debug\netcoreapp3.1\2610HomeWork.runtimeconfig.json
+C:\Users\admin\source\repos\2610HomeWork\2610HomeWork\bin\Debug\netcoreapp3.1\2610HomeWork.runtimeconfig.dev.json
+C:\Users\admin\source\repos\2610HomeWork\2610HomeWork\bin\Debug\netcoreapp3.1\2610HomeWork.dll
+C:\Users\admin\source\repos\2610HomeWork\2610HomeWork\bin\Debug\netcoreapp3.1\2610HomeWork.pdb
+C:\Users\admin\source\repos\2610HomeWork\2610HomeWork\obj\Debug\netcoreapp3.1\2610HomeWork.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\2610HomeWork\2610HomeWork\obj\Debug\netcoreapp3.1\2610HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\2610HomeWork\2610HomeWork\obj\Debug\netcoreapp3.1\2610HomeWork.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\2610HomeWork\2610HomeWork\obj\Debug\netcoreapp3.1\2610HomeWork.AssemblyInfo.cs
+C:\Users\admin\source\repos\2610HomeWork\2610HomeWork\obj\Debug\netcoreapp3.1\2610HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\2610HomeWork\2610HomeWork\obj\Debug\netcoreapp3.1\2610HomeWork.dll
+C:\Users\admin\source\repos\2610HomeWork\2610HomeWork\obj\Debug\netcoreapp3.1\2610HomeWork.pdb
+C:\Users\admin\source\repos\2610HomeWork\2610HomeWork\obj\Debug\netcoreapp3.1\2610HomeWork.genruntimeconfig.cache
